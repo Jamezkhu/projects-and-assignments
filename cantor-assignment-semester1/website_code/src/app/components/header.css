@@ -1,0 +1,12 @@
+header{
+    background-color: #b10c59;
+}
+
+p{
+    text-align: center;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    text-decoration: underline;
+}
